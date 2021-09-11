@@ -22,7 +22,7 @@
 
 В настоящее время изучаю фреймворки VUE и React.
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/SEML"><img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" alt="CodeWars" data-canonical-src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" style="max-width: 100%;">CodeWars: https://www.codewars.com/users/SEML
+<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/SEML"><img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" alt="CodeWars" data-canonical-src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" style="width: 19px;">CodeWars: https://www.codewars.com/users/SEML
 </a>
  
 📫 e-mail: 4040591@gmail.com
