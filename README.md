@@ -1,4 +1,4 @@
-  <img src="https://i.ibb.co/Pcg68Dc/title.png" alt="">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xG5cFTC/title2.png" alt="title2" border="0" /></a>
 
 Обучался в GeekBrains GeekUniversity Frontend-разработке. Также закончил курс Front-End Development на Udemy. 
 
