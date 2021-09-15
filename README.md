@@ -1,6 +1,6 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/xG5cFTC/title2.png" alt="title2" border="0" /></a>
-
-Выполнял различные лабораторные проекты с использованием основного стека технологий веб-разработки.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xG5cFTC/title2.png" alt="title2" border="0" /></a> <br>
+Привет! <br>
+Немного обо мне - я начинающий frontend разработчик. Заканчиваю курсы GeekBrains. Выполнял различные лабораторные проекты с использованием основного стека технологий веб-разработки.
 
 Мой стек:
 <br>
@@ -20,7 +20,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6e87e1be6c7e60c69a052abb1affb5ea0ea1b248ba98376076b58c0034762c29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5472656c6c6f"><img src="https://camo.githubusercontent.com/6e87e1be6c7e60c69a052abb1affb5ea0ea1b248ba98376076b58c0034762c29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5472656c6c6f" alt="Trello" data-canonical-src="https://img.shields.io/badge/Trello-black?style=flat-square&amp;logo=Trello" style="max-width: 100%;"></a>
 
 
-В настоящее время изучаю фреймворки VUE и React.
+Сейчас изучаю фреймворки Vue и React.
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/SEML"><img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" alt="CodeWars" data-canonical-src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" style="width: 19px;">CodeWars: https://www.codewars.com/users/SEML
 </a>
