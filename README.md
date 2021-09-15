@@ -1,3 +1,5 @@
+  <img src="https://i.ibb.co/Pcg68Dc/title.png" alt="">
+
 Обучался в GeekBrains GeekUniversity Frontend-разработке. Также закончил курс Front-End Development на Udemy. 
 
 Выполнял различные лабораторные проекты с использованием основного стека технологий веб-разработки.
