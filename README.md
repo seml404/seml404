@@ -1,4 +1,4 @@
-<a style = "display: inline-block" href="https://imgbb.com/"><img src="https://i.ibb.co/xG5cFTC/title2.png" alt="title2" border="0" /></a> <br>
+
 Привет! <br>
 Немного обо мне - я начинающий frontend разработчик. Обучался в GeekBrains GeekUniversity Frontend-разработке. Также закончил курс Front-End Development на Udemy.. Выполнял различные лабораторные проекты с использованием основного стека технологий веб-разработки.
 
@@ -26,3 +26,76 @@
 </a>
  
 📫 e-mail: 4040591@gmail.com
+
+Примеры моих проектов:
+		<ol>
+		<li>Интернет магазин здорового питания <br> Технологии:<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"><img
+					src="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"
+					alt="JS"
+					data-canonical-src="https://img.shields.io/badge/JavaScript-black?style=flat-square&amp;logo=javaScript"
+					style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"><img
+					src="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"
+					alt="HTML"
+					data-canonical-src="https://img.shields.io/badge/HTML-black?style=flat-square&amp;logo=HTML5"
+					style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/8739e870841a9bd4598496652f705140b40f8934ebb8797da25610b3518b5d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img
+					src="https://camo.githubusercontent.com/8739e870841a9bd4598496652f705140b40f8934ebb8797da25610b3518b5d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"
+					alt="CSS"
+					data-canonical-src="https://img.shields.io/badge/CSS-black?style=flat-square&amp;logo=css3"
+					style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/431458a85b3dde2486630c570c6064ff7d6e929945c38f416f19a333377d11a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5765627061636b"><img
+					src="https://camo.githubusercontent.com/431458a85b3dde2486630c570c6064ff7d6e929945c38f416f19a333377d11a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5765627061636b"
+					alt="Webpack"
+					data-canonical-src="https://img.shields.io/badge/Webpack-black?style=flat-square&amp;logo=Webpack"
+					style="max-width: 100%;"></a>
+			<a href="https://github.com/seml404/JS_lab_project_1" class="">
+				<img src="https://i.ibb.co/mcFn8Mf/Af-Nmjh-I3-MU.gif" alt="JS_lab_project_1" style="width: 100%;"> </a>
+		</li>
+		<li>Ценовой компонент<br> Технологии:<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"><img
+					src="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"
+					alt="JS"
+					data-canonical-src="https://img.shields.io/badge/JavaScript-black?style=flat-square&amp;logo=javaScript"
+					style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"><img
+					src="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"
+					alt="HTML"
+					data-canonical-src="https://img.shields.io/badge/HTML-black?style=flat-square&amp;logo=HTML5"
+					style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/8739e870841a9bd4598496652f705140b40f8934ebb8797da25610b3518b5d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img
+					src="https://camo.githubusercontent.com/8739e870841a9bd4598496652f705140b40f8934ebb8797da25610b3518b5d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"
+					alt="CSS"
+					data-canonical-src="https://img.shields.io/badge/CSS-black?style=flat-square&amp;logo=css3"
+					style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/f93b8c76251075fc1791cfc6dd1bb589aa5e029ce738e086a6e2ff17855c2cfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726574746965722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5072657474696572"><img
+					src="https://camo.githubusercontent.com/f93b8c76251075fc1791cfc6dd1bb589aa5e029ce738e086a6e2ff17855c2cfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726574746965722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5072657474696572"
+					alt="Prettier"
+					data-canonical-src="https://img.shields.io/badge/Prettier-black?style=flat-square&amp;logo=Prettier"
+					style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer"
+				href="https://camo.githubusercontent.com/ea9f5180bc3cdc5c5092e64cdf8b609db199bc065f57b84c3566cc367db36f73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4669676d61"><img
+					src="https://camo.githubusercontent.com/ea9f5180bc3cdc5c5092e64cdf8b609db199bc065f57b84c3566cc367db36f73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4669676d61"
+					alt="Figma"
+					data-canonical-src="https://img.shields.io/badge/Figma-black?style=flat-square&amp;logo=Figma"
+					style="max-width: 100%;"></a>
+			<a href="https://github.com/seml404/Pricing-component-with-toggle" class=""><img
+					src="https://i.ibb.co/54sGwbv/vtlbt-PCa-V4-1.gif" alt="pricing component" style="width: 100%;"> </a>
+		</li>
+		<li>Пошаговый навигатор<br> Технологии:<a target="_blank" rel="noopener noreferrer" href="#"><img
+					src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+					alt="Vue"
+					data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+					style="height: 20px; width: 59px;"></a>
+			<a href="https://github.com/seml404/Step-by-step-plan-Vue" class=""><img
+					src="https://i.ibb.co/WkDRPLM/1mi-Y1-Yz-UBP.gif" alt="step by step" style="width: 100%;"> </a>
+		</li>
+	</ol>
+
