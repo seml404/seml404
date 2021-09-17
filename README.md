@@ -1,8 +1,8 @@
 
 Привет! <br>
-Немного обо мне - я начинающий frontend разработчик. Обучался в GeekBrains GeekUniversity Frontend-разработке. Также закончил курс Front-End Development на Udemy.. Выполнял различные лабораторные проекты с использованием основного стека технологий веб-разработки.
+Немного обо мне - я начинающий frontend разработчик. Обучался в GeekBrains GeekUniversity Frontend-разработке. Также закончил курс Front-End Development на Udemy. Выполнял различные лабораторные проекты с использованием основного стека технологий веб-разработки.
 
-Мой стек:
+<strong> Мой стек:</strong> 
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"><img src="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074" alt="JS" data-canonical-src="https://img.shields.io/badge/JavaScript-black?style=flat-square&amp;logo=javaScript" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/HTML-black?style=flat-square&amp;logo=HTML5" style="max-width: 100%;"></a>
@@ -20,16 +20,21 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6e87e1be6c7e60c69a052abb1affb5ea0ea1b248ba98376076b58c0034762c29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5472656c6c6f"><img src="https://camo.githubusercontent.com/6e87e1be6c7e60c69a052abb1affb5ea0ea1b248ba98376076b58c0034762c29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5472656c6c6f" alt="Trello" data-canonical-src="https://img.shields.io/badge/Trello-black?style=flat-square&amp;logo=Trello" style="max-width: 100%;"></a>
 
 
-Сейчас изучаю фреймворки Vue и React.
+Сейчас изучаю фреймворки Vue и React. <br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/SEML"><img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" alt="CodeWars" data-canonical-src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" style="width: 19px;">CodeWars: https://www.codewars.com/users/SEML
-</a>
+<img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png"
+		alt="CodeWars"
+		data-canonical-src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png"
+		style="width: 19px;"><span> <strong> CodeWars: </strong> </span> <a target="_blank" rel="noopener noreferrer"
+		href="https://www.codewars.com/users/SEML">https://www.codewars.com/users/SEML
+	</a>
+
  
-📫 e-mail: 4040591@gmail.com
+📫 <strong> e-mail:</strong>  4040591@gmail.com
 
-Примеры моих проектов:
+<strong> Примеры моих проектов:</strong> 
 		<ol>
-		<li>Интернет магазин здорового питания <br> Технологии:<a target="_blank" rel="noopener noreferrer"
+		<li><strong> Интернет магазин здорового питания </strong> <br> Технологии: <a target="_blank" rel="noopener noreferrer"
 				href="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"><img
 					src="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"
 					alt="JS"
@@ -56,7 +61,7 @@
 			<a href="https://github.com/seml404/JS_lab_project_1" class="">
 				<img src="https://i.ibb.co/mcFn8Mf/Af-Nmjh-I3-MU.gif" alt="JS_lab_project_1" style="width: 100%;"> </a>
 		</li>
-		<li>Ценовой компонент<br> Технологии:<a target="_blank" rel="noopener noreferrer"
+		<li><strong> Ценовой компонент</strong> <br> Технологии: <a target="_blank" rel="noopener noreferrer"
 				href="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"><img
 					src="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"
 					alt="JS"
@@ -89,7 +94,7 @@
 			<a href="https://github.com/seml404/Pricing-component-with-toggle" class=""><img
 					src="https://i.ibb.co/54sGwbv/vtlbt-PCa-V4-1.gif" alt="pricing component" style="width: 100%;"> </a>
 		</li>
-		<li>Пошаговый навигатор<br> Технологии:<a target="_blank" rel="noopener noreferrer" href="#"><img
+		<li><strong> Пошаговый навигатор</strong> <br> Технологии: <a target="_blank" rel="noopener noreferrer" href="#"><img
 					src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
 					alt="Vue"
 					data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
