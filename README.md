@@ -90,5 +90,12 @@
 			<a href="https://github.com/seml404/Step-by-step-plan-Vue" class=""><img
 					src="https://i.ibb.co/WkDRPLM/1mi-Y1-Yz-UBP.gif" alt="step by step" style="width: 100%;"> </a>
 		</li>
-	</ol>
+	<li><strong> Перечень дел </strong> <br> Технологии: <a target="_blank" rel="noopener noreferrer" href="#"><img
+					src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+					alt="Vue"
+					data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+					style="height: 20px; width: 59px;"></a>
+		<a href="https://github.com/seml404/to-do-list-Vue-" class=""><img
+					src="https://i.ibb.co/MBHprCN/to-do-list.gif" alt="to do list" style="width: 100%;"> </a>
+				</li></ol>
 
