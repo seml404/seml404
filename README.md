@@ -1,6 +1,6 @@
 
 Привет! <br>
-Немного обо мне: я - начинающий frontend-разработчик. Обучался в GeekBrains GeekUniversity. Также закончил курс Front-End Development на Udemy. Выполнял различные лабораторные и pet проекты с использованием основного стека технологий веб-разработки.
+Немного обо мне: высшее образование - МГУПИ (в настоящее время МИРЭА - Российский технологический университет); front-end изучал в GeekBrains GeekUniversity. Также закончил курс Front-End Development на Udemy. Выполнял различные лабораторные и pet проекты с использованием основного стека технологий веб-разработки.
 
 <strong> Мой стек:</strong> 
 <br>
@@ -21,7 +21,7 @@
 
 
 
-Сейчас изучаю фреймворк VueJS. <br>
+Сейчас изучаю фреймворк ReactJS. <br>
 
 <img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png"
 		alt="CodeWars"
