@@ -89,6 +89,6 @@
                 data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
                 style="height: 20px; width: 59px;"></a>
         <a href="https://github.com/seml404/app-cv-constructor-Vue" class=""><img
-                src="https://i.ibb.co/pvM18VT/cv-constructor.gif" alt="cv-constructor" style="width: 100%;"> </a>
+                src="https://i.ibb.co/JypYjjY/cv-constructor.gif" alt="cv-constructor" style="width: 100%;"> </a>
     </li></ol>
 
