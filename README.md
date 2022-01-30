@@ -1,6 +1,11 @@
 
 Привет! <br>
-Немного обо мне: высшее образование - МГУПИ (в настоящее время МИРЭА - Российский технологический университет); front-end изучал в GeekBrains GeekUniversity. Также закончил курс Front-End Development на Udemy. Выполнял многочисленные лабораторные и pet проекты с использованием основного стека технологий веб-разработки.
+Немного обо мне: высшее образование - МГУПИ (в настоящее время МИРЭА -
+Российский технологический университет; диплом с отличием); фронтенд-разработкой
+занимаюсь с 2020 г. Закончил курс Front-End Development на Udemy (2020), а также
+GeekBrains GeekUniversity (Mail.ru Group) (2021). Выполнял многочисленные
+лабораторные и pet-проекты с использованием основного стека технологий
+веб-разработки, примеры которых можно посмотреть в моем github.
 
 <strong> Мой стек:</strong> 
 <br>
@@ -32,63 +37,116 @@
  
 📫 <strong> e-mail:</strong>  4040591@gmail.com
 
-<strong> Примеры моих проектов:</strong> 
-		<ol>
-		<li><strong> Интернет магазин здорового питания </strong> <br> Технологии: <a target="_blank" rel="noopener noreferrer"
-				href="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"><img
-					src="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"
-					alt="JS"
-					data-canonical-src="https://img.shields.io/badge/JavaScript-black?style=flat-square&amp;logo=javaScript"
-					style="max-width: 100%;"></a>			
-			<a target="_blank" rel="noopener noreferrer"
-				href="https://camo.githubusercontent.com/431458a85b3dde2486630c570c6064ff7d6e929945c38f416f19a333377d11a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5765627061636b"><img
-					src="https://camo.githubusercontent.com/431458a85b3dde2486630c570c6064ff7d6e929945c38f416f19a333377d11a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5765627061636b"
-					alt="Webpack"
-					data-canonical-src="https://img.shields.io/badge/Webpack-black?style=flat-square&amp;logo=Webpack"
-					style="max-width: 100%;"></a>
-			<a href="https://github.com/seml404/JS_lab_project_1" class="">
-				<img src="https://i.ibb.co/mcFn8Mf/Af-Nmjh-I3-MU.gif" alt="JS_lab_project_1" style="width: 100%;"> </a>
-		</li>
-		<li><strong> Ценовой компонент</strong> <br> Технологии: <a target="_blank" rel="noopener noreferrer"
-				href="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"><img
-					src="https://camo.githubusercontent.com/f6519f7e4c2901a974e95ffa5dd837b6fbee73ec6cffe44849a5bd4e718fab59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661536372697074"
-					alt="JS"
-					data-canonical-src="https://img.shields.io/badge/JavaScript-black?style=flat-square&amp;logo=javaScript"
-					style="max-width: 100%;"></a>
-			<a target="_blank" rel="noopener noreferrer"
-				href="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"><img
-					src="https://camo.githubusercontent.com/47bb07474bee2f684fda96d6ce204765dff07341391e1974dbeeb7234891f4f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35"
-					alt="HTML"
-					data-canonical-src="https://img.shields.io/badge/HTML-black?style=flat-square&amp;logo=HTML5"
-					style="max-width: 100%;"></a>
-			<a target="_blank" rel="noopener noreferrer"
-				href="https://camo.githubusercontent.com/8739e870841a9bd4598496652f705140b40f8934ebb8797da25610b3518b5d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"><img
-					src="https://camo.githubusercontent.com/8739e870841a9bd4598496652f705140b40f8934ebb8797da25610b3518b5d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"
-					alt="CSS"
-					data-canonical-src="https://img.shields.io/badge/CSS-black?style=flat-square&amp;logo=css3"
-					style="max-width: 100%;"></a>
-			<a target="_blank" rel="noopener noreferrer"
-				href="https://camo.githubusercontent.com/f93b8c76251075fc1791cfc6dd1bb589aa5e029ce738e086a6e2ff17855c2cfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726574746965722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5072657474696572"><img
-					src="https://camo.githubusercontent.com/f93b8c76251075fc1791cfc6dd1bb589aa5e029ce738e086a6e2ff17855c2cfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726574746965722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5072657474696572"
-					alt="Prettier"
-					data-canonical-src="https://img.shields.io/badge/Prettier-black?style=flat-square&amp;logo=Prettier"
-					style="max-width: 100%;"></a>
-			<a target="_blank" rel="noopener noreferrer"
-				href="https://camo.githubusercontent.com/ea9f5180bc3cdc5c5092e64cdf8b609db199bc065f57b84c3566cc367db36f73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4669676d61"><img
-					src="https://camo.githubusercontent.com/ea9f5180bc3cdc5c5092e64cdf8b609db199bc065f57b84c3566cc367db36f73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4669676d61"
-					alt="Figma"
-					data-canonical-src="https://img.shields.io/badge/Figma-black?style=flat-square&amp;logo=Figma"
-					style="max-width: 100%;"></a>
-			<a href="https://github.com/seml404/Pricing-component-with-toggle" class=""><img
-					src="https://i.ibb.co/54sGwbv/vtlbt-PCa-V4-1.gif" alt="pricing component" style="width: 100%;"> </a>
-		</li>
-		   <li><strong> Он-лайн конструктор резюме</strong> <br> Технологии: <a target="_blank" rel="noopener noreferrer"
-            href="#"><img
-                src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
-                alt="Vue"
-                data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
-                style="height: 20px; width: 59px;"></a>
-        <a href="https://github.com/seml404/app-cv-constructor-Vue" class=""><img
-                src="https://i.ibb.co/JypYjjY/cv-constructor.gif" alt="cv-constructor" style="width: 100%;"> </a>
-    </li></ol>
+<strong> Примеры моих проектов:</strong>
+<ol>
+  <li>
+    <strong>
+      Приложение для поиска книг с использованием GoogleBooks API и технологий
+      Redux/React-router, с фильтрацией и сортировкой, выгруженное на хостинг:
+      http://emelyap6.beget.tech/
+    </strong>
+    <br />
+    Технологии:
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+      ><img
+        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        alt="ReactJS"
+        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        style="max-width: 100%"
+    /></a>
+
+    <a href="https://github.com/seml404/React-Redux-App-GoogleBooks" class="">
+      <img
+        src="https://i.ibb.co/4M9YgPT/books.gif"
+        alt="React-Redux-App-GoogleBooks"
+        style="width: 100%"
+      />
+    </a>
+  </li>
+  <li>
+    <strong
+      >SPA (страница-сайта) для работы с товарами интернет-магазина (включая
+      REST API запрос данных с сервера, роутинг по категориям товаров,
+      автоматическое определение стоимости заказа при добавлении товара в
+      корзину, отправку данных на сервер о категориях и количестве заказанных
+      товаров по их id
+    </strong>
+    <br />
+    Технологии:
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+      ><img
+        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        alt="ReactJS"
+        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        style="max-width: 100%"
+    /></a>
+
+    <a href="https://github.com/seml404/React-app-goods-page" class=""
+      ><img
+        src="https://i.ibb.co/GMnPvJB/goods.gif"
+        alt="React-app-goods-page"
+        style="width: 100%"
+      />
+    </a>
+  </li>
+  <li>
+    <strong
+      >Формы для входа/регистрации/авторизации на сайте (включая валидацию полей
+      формы и их значений - корректность e-mail, имени и телефона, а также
+      запрос и постинг данных на сервер)
+    </strong>
+    <br />
+    Технологии:
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+      ><img
+        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        alt="ReactJS"
+        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        style="max-width: 100%"
+    /></a>
+    <a href="https://github.com/seml404/React-app-login-form-test-task" class=""
+      ><img
+        src="https://i.ibb.co/KLMbwDF/forms.gif"
+        alt="React-app-login-form"
+        style="width: 100%"
+      />
+    </a>
+  </li>
+  <li>
+    <strong
+      >Date-picker (календарь с возможностью внесения записей и их рендеррингом)
+      для просмотра расписания и работы с записами в нем (AJAX запросы,
+      технологии react-router/ redux и пр.)
+    </strong>
+    <br />
+    Технологии:
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+      ><img
+        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        alt="ReactJS"
+        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
+        style="max-width: 100%"
+    /></a>
+    <a href="https://github.com/seml404/React-app-date-picker" class=""
+      ><img
+        src="https://i.ibb.co/pyFz8Qz/calendar.gif"
+        alt="React-app-date-picker"
+        style="width: 100%"
+      />
+    </a>
+  </li>
+</ol>
+
 
