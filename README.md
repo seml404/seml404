@@ -27,12 +27,7 @@ GeekBrains GeekUniversity (Mail.ru Group) (2021). Выполнял многоч�
 
 <br>
 
-<img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png"
-		alt="CodeWars"
-		data-canonical-src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png"
-		style="width: 19px;"><span> <strong> CodeWars: </strong> </span> <a target="_blank" rel="noopener noreferrer"
-		href="https://www.codewars.com/users/SEML">https://www.codewars.com/users/SEML
-	</a>
+<img src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" alt="CodeWars" data-canonical-src="https://www.codewars.com/assets/profile-pic-f3a90acafe5c6158424ce6f242a17499e2b65fb6ba2ba27d7b775ed62e2ee949.png" style="width: 19px;"><span> <strong> CodeWars: </strong> </span> <a target="_blank" rel="noopener noreferrer"	href="https://www.codewars.com/users/SEML">https://www.codewars.com/users/SEML</a>
 
  
 📫 <strong> e-mail:</strong>  4040591@gmail.com
