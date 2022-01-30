@@ -74,7 +74,7 @@ GeekBrains GeekUniversity (Mail.ru Group) (2021). Выполнял многоч�
         data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
         style="max-width: 100%"
     /></a>
-    <a href="https://github.com/seml404/React-app-goods-page" class=""><img src="https://i.ibb.co/GMnPvJB/goods.gif" alt="React-app-goods-page" style="width: 100%"/></a>
+    <a href="https://github.com/seml404/React-app-goods-page" class=""><img src="https://i.ibb.co/rwmhPXr/books-Trim-2.gif" alt="React-app-goods-page" style="width: 100%"/></a>
   </li>
   <li>
     <strong
