@@ -53,29 +53,7 @@ GeekBrains GeekUniversity (Mail.ru Group) (2021). Выполнял многоч�
         style="max-width: 100%"
     /></a>
     <a href="https://github.com/seml404/React-Redux-App-GoogleBooks" class=""><img src="https://i.ibb.co/PDcXNZf/books-v-7.gif" alt="React-Redux-App-GoogleBooks" style="width:100%"/></a>
-  </li>
-  <li>
-    <strong
-      >SPA (страница-сайта) для работы с товарами интернет-магазина (включая
-      REST API запрос данных с сервера, роутинг по категориям товаров,
-      автоматическое определение стоимости заказа при добавлении товара в
-      корзину, отправку данных на сервер о категориях и количестве заказанных
-      товаров по их id
-    </strong>
-    <br />
-    Технологии:
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-      ><img
-        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        alt="ReactJS"
-        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://github.com/seml404/React-app-goods-page" class=""><img src="https://i.ibb.co/GMnPvJB/goods.gif" alt="React-app-goods-page" style="width: 100%"/></a>
-  </li>
+  </li>  
   <li>
     <strong
       >Формы для входа/регистрации/авторизации на сайте (включая валидацию полей
