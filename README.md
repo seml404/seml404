@@ -1,12 +1,4 @@
 
-Привет! <br>
-Немного обо мне: высшее образование - МГУПИ (в настоящее время МИРЭА -
-Российский технологический университет; диплом с отличием); фронтенд-разработкой
-занимаюсь с 2020 г. Закончил курс Front-End Development на Udemy (2020), а также
-GeekBrains GeekUniversity (Mail.ru Group) (2021). Выполнял многочисленные
-лабораторные и pet-проекты с использованием основного стека технологий
-веб-разработки, примеры которых можно посмотреть в моем github.
-
 <strong> Мой стек:</strong> 
 <br>
 
@@ -32,80 +24,5 @@ GeekBrains GeekUniversity (Mail.ru Group) (2021). Выполнял многоч�
  
 📫 <strong> e-mail:</strong>  4040591@gmail.com
 
-<strong> Примеры моих проектов:</strong>
-<ol>
-  <li>
-    <strong>
-      Приложение для поиска книг с использованием GoogleBooks API и технологий
-      Redux/React-router, с фильтрацией и сортировкой, выгруженное на хостинг:
-      http://emelyap6.beget.tech/
-    </strong>
-    <br />
-    Технологии:
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-      ><img
-        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        alt="ReactJS"
-        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://github.com/seml404/React-Redux-App-GoogleBooks" class=""><img src="https://i.ibb.co/PDcXNZf/books-v-7.gif" alt="React-Redux-App-GoogleBooks" style="width:100%"/></a>
-  </li>  
-  <li>
-    <strong
-      >Формы для входа/регистрации/авторизации на сайте (включая валидацию полей
-      формы и их значений - корректность e-mail, имени и телефона, а также
-      запрос и постинг данных на сервер)
-    </strong>
-    <br />
-    Технологии:
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-      ><img
-        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        alt="ReactJS"
-        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://github.com/seml404/React-app-login-form-test-task" class=""
-      ><img
-        src="https://i.ibb.co/KLMbwDF/forms.gif"
-        alt="React-app-login-form"
-        style="width: 100%"
-      />
-    </a>
-  </li>
-  <li>
-    <strong
-      >Date-picker (календарь с возможностью внесения записей и их рендеррингом)
-      для просмотра расписания и работы с записами в нем (AJAX запросы,
-      технологии react-router/ redux и пр.)
-    </strong>
-    <br />
-    Технологии:
-    <a
-      target="_blank"
-      rel="noopener noreferrer"
-      href="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-      ><img
-        src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        alt="ReactJS"
-        data-canonical-src="https://camo.githubusercontent.com/0c9cd81cf184bd30a42ce918a423970626c685e71d929da7ccd79b478e14a0b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-        style="max-width: 100%"
-    /></a>
-    <a href="https://github.com/seml404/React-app-date-picker" class=""
-      ><img
-        src="https://i.ibb.co/pyFz8Qz/calendar.gif"
-        alt="React-app-date-picker"
-        style="width: 100%"
-      />
-    </a>
-  </li>
-</ol>
 
 
