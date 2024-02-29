@@ -19,7 +19,7 @@
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 20px; width: 59px;"></a>
 
 <br>
-<div style="display: flex; align-items: center; juctify-content: center"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars" style="max-width: 100%; margin-right: 5px;display:block"><strong><a target="_blank" rel="noopener noreferrer"	href="https://www.codewars.com/users/SEML" style="display: block;">https://www.codewars.com/users/SEML</a></strong> </div>
+<div style="display: flex; align-items: center; juctify-content: center"><a target="_blank" rel="noopener noreferrer"	href="https://www.codewars.com/users/SEML" style="display: block;"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars" style="max-width: 100%; margin-right: 5px; display:block"></a> </div>
 
 
 📫 <strong> e-mail:</strong> 4040591@gmail.com
