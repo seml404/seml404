@@ -20,6 +20,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars" style="width: 59px;"><strong></strong><a target="_blank" rel="noopener noreferrer"	href="https://www.codewars.com/users/SEML">https://www.codewars.com/users/SEML</a>
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars" style="max-width: 100%; margin-right: 5px;"><strong><a target="_blank" rel="noopener noreferrer"	href="https://www.codewars.com/users/SEML">https://www.codewars.com/users/SEML</a></strong>
 
 📫 <strong> e-mail:</strong> 4040591@gmail.com
