@@ -15,8 +15,8 @@
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"  style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="#" alt="Trello" style="max-width: 100%;"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 20px; width: 59px;"></a>
-<a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 20px; width: 59px;"></a>
+<a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;"></a>
 
 <br>
 <div style="display: flex; align-items: center; juctify-content: center"><a target="_blank" rel="noopener noreferrer"	href="https://www.codewars.com/users/SEML" style="display: block;"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars" style="max-width: 100%; margin-right: 5px; display:block"></a> </div>
