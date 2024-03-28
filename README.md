@@ -22,4 +22,4 @@
 <div style="display: flex; align-items: center; juctify-content: center"><a target="_blank" rel="noopener noreferrer"	href="https://www.codewars.com/users/SEML" style="display: block;"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars" style="max-width: 100%; margin-right: 5px; display:block"></a> </div>
 
 
-📫 <strong> e-mail:</strong> semlfrontend@gmail.com
+📫 <strong> e-mail:</strong> 4040591@gmail.com
